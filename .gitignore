@@ -1,0 +1,14 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
+
+# Temporary Microsoft Word and WPS files
+~$*.docx
+~$*.doc
+
+# Temporary spreadsheet files
+~$*.xlsx
+~$*.xls
